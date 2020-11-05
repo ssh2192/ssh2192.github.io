@@ -20,7 +20,7 @@
 		<section>
 			<dl>
 			<dt> Navigation</dt>
-				<dd><a href="home.html">Home</a></dd>
+				<dd><a href="index.md">Home</a></dd>
 				<dd><a href="books.html">Books</a></dd>
 				<dd><a href="publishedpapers.html">Published Papers</a></dd>
 				<dd><a href="workingpapers.html">Working Papers</a></dd>
