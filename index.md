@@ -18,14 +18,12 @@
 			<img src="edmorrisonportrait.jpg" alt="Morrison Portrait">
 		</header>
 		<section>
-			<dl>
-			<dt> Navigation</dt>
-				<dd><a href="index.html">Home</a></dd>
-				<dd><a href="books.html">Books</a></dd>
-				<dd><a href="publishedpapers.html">Published Papers</a></dd>
-				<dd><a href="workingpapers.html">Working Papers</a></dd>
-				<dd><a href="amicusbriefs.html">Amicus Briefs</a></dd>
-			</dl>
+			<h2>Navigation</h2>
+			<a href="index.html">Home</a>
+			<a href="books.html">Books</a>
+			<a href="publishedpapers.html">Published Papers</a>
+			<a href="workingpapers.html">Working Papers</a>
+			<a href="amicusbriefs.html">Amicus Briefs</a>
 
 			<h2>Contact Information</h2>
 			<p>Email: <a href="mailto:erm2101@columbia.edu">erm2101@columbia.edu</a></p>
