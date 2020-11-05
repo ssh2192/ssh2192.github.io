@@ -5,7 +5,7 @@
 	<title>Professor Edward R. Morrison</title>
 	<meta content="Charles Evans Gerber Professor of Law, Columbia Law School" name="description">
 	<meta content="width=device-width, initial-scale=1" name="viewport"><!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<link href="/stylesheets/styles.css" rel="stylesheet">
+	<link href="styles.css" rel="stylesheet">
 </head>
 <body>
 	<div class="wrapper">
@@ -20,7 +20,7 @@
 		<section>
 			<dl>
 			<dt> Navigation</dt>
-				<dd><a href="index.md">Home</a></dd>
+				<dd><a href="index.html">Home</a></dd>
 				<dd><a href="books.html">Books</a></dd>
 				<dd><a href="publishedpapers.html">Published Papers</a></dd>
 				<dd><a href="workingpapers.html">Working Papers</a></dd>
@@ -50,6 +50,6 @@
 	</script>
 	<!-- End of StatCounter Code for Default Guide -->
 	 
-	<script src="/javascripts/scale.fix.js"></script>
+	<script src="scale.fix.js"></script>
 </body>
 </html>
