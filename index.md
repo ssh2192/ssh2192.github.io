@@ -15,7 +15,7 @@
 			<p><span style="font-weight:normal;">Director, <a href="https://www8.gsb.columbia.edu/richman/">Richman Center for Business, Law, &amp; Public Policy</a></span></p>
 			<p><span style="font-weight:normal;">Editor, <a href="https://www.journals.uchicago.edu/toc/jls/current">Journal of Legal Studies</a></span></p>
 			<p><span style="font-weight:normal;">Chair of Capital Markets Committee, <a href="http://nbconf.org/">National Bankruptcy Conference</a></span></p>
-			<img src="edmorrisonportrait.jpg" alt="Morrison Portrait">
+			<img src="edmorrisonportraittemp.jpg" alt="Morrison Portrait">
 		</header>
 		<section>
 			<<h2>Navigation</h2>
