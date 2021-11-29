@@ -28,7 +28,7 @@
 			<h2>Contact Information</h2>
 			<p>Email: <a href="mailto:erm2101@columbia.edu">erm2101@columbia.edu</a></p>
 			<h2>CV</h2>
-			<p><a href="E_Morrison_CV_Nov_2020 .pdf">Download PDF</a></p>
+			<p><a href="edward_morrison_cv_nov_2021.pdf">Download PDF</a></p>
 			
 
 
